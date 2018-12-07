@@ -31,10 +31,30 @@ Yield curve data is avalible at [treasury.gov](https://www.treasury.gov/resource
 
 ##### Two and five year maturities (1990-2008)
 
-[1990-2018-2yr-5yr.tsv](https://github.com/mgruesbeck/TBondCurve-US/blob/master/src/data/DailyTreasuryYieldCurveRates1990-2018-2yr-5yr.tsv)
+[1990-2018-2yr-5yr.tsv](https://github.com/mgruesbeck/TBondCurve-US/blob/master/src/data/DailyYield1990-2018-2yr-5yr.tsv)
 
 ##### All maturities (1990-2008)
 
-[1990-2018-All.tsv](https://github.com/mgruesbeck/TBondCurve-US/blob/master/src/data/DailyTreasuryYieldCurveRates1990-2018-All.tsv)
+[1990-2018-All.tsv](https://github.com/mgruesbeck/TBondCurve-US/blob/master/src/data/DailyYield1990-2018-All.tsv)
 
 ### Results
+Wanted quick answers so did some cheap math. Discovered that between 1990-2018 (28yrs or ~10220days) there are ~644 days where 2yr yeild > 5yr yeild. Inversions account for ~6.30% of all 10220 days.
+
+```
+percent = (inversion/totalDays) * 100
+6.30% = (644/10220) * 100
+```
+
+### Follow up / fun ideas
+- Load all maturities 
+- Practice dataset immutablity
+- Chart data with [plottable](http://plottablejs.org/examples/finance)
+- Add more statistics (Summary, Regression) with [simple statistics](https://simplestatistics.org)
+- Practice functional programing with [ramdajs](https://ramdajs.com)
+- Request daily yield from treasury.gov
+- Host online
+
+### Other questions
+- Average difference between inversion?
+- Average duration of inversion?
+- Date correlation?
