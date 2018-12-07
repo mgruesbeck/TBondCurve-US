@@ -27,7 +27,7 @@ DEC 3, 2018 - I read a [Bloomberg article](https://www.bloomberg.com/opinion/art
 
 ### Data
 
-Yield curve data is avalible at [treasury.gov](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yieldAll). This data covers all maturities (1Mo, 2Mo, 3Mo, 6Mo, 1Yr, 2Yr, 3Yr, 5Yr, 7Yr, 10Yr, 20Yr, 30Yr) for years 1990 through 2018.
+T-bond yield data is avalible at [treasury.gov](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yieldAll). This data covers all maturities (1Mo, 2Mo, 3Mo, 6Mo, 1Yr, 2Yr, 3Yr, 5Yr, 7Yr, 10Yr, 20Yr, 30Yr) for years 1990 through 2018.
 
 ##### Two and five year maturities (1990-2008)
 
