@@ -38,7 +38,7 @@ T-bond yield data is avalible at [treasury.gov](https://www.treasury.gov/resourc
 [1990-2018-All.tsv](https://github.com/mgruesbeck/TBondCurve-US/blob/master/src/data/DailyYield1990-2018-All.tsv)
 
 ### Results
-Wanted quick answers so did some cheap math. Discovered that between 1990-2018 (28yrs or ~10220days) there are ~644 days where 2yr yeild > 5yr yeild. Inversions account for ~6.30% of all 10220 days.
+Wanted quick answers so did some cheap math. Discovered that between 1990-2018 (28yrs or ~10220days) there are `~644` days where 2yr yeild > 5yr yeild. Inversions account for `~6.30%` of all `10220 days`.
 
 ```
 percent = (inversion/totalDays) * 100
@@ -51,7 +51,7 @@ percent = (inversion/totalDays) * 100
 - Chart data with [plottable](http://plottablejs.org/examples/finance)
 - Add more statistics (Summary, Regression) with [simple statistics](https://simplestatistics.org)
 - Practice functional programing with [ramdajs](https://ramdajs.com)
-- Request daily yield from treasury.gov
+- Add programatic request of daily yield from [treasury.gov](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yieldAll)
 - Host online
 
 ### Other questions
