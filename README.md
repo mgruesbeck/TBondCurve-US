@@ -23,6 +23,7 @@ I have money on hand and I want to put it into something safe. The US government
 >Note that only the 3 and 5 years have inverted. If people were really panicked, you would probably see a more significant inversion, where for example, the 1 year was higher than the 2 year and the 2 higher than the 3, etc.
 
 >[1] these rates are actual rates of return calculated based on the auction price paid
+
 [chadash](https://news.ycombinator.com/user?id=chadash)
 
 ### Data
