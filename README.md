@@ -7,7 +7,7 @@ On December 3, 2018 US T-bond yield curves inverted. This was all very facinatin
 
 ### Background
 
-On December 3, 2018 I read this [Bloomberg article](https://www.bloomberg.com/opinion/articles/2018-12-03/u-s-yield-curve-just-inverted-that-s-huge) on TBond yield Inversion. It took a while to understand but found this great summary from [chadash](https://news.ycombinator.com/user?id=chadash) on [news.ycombinator.com](https://news.ycombinator.com/item?id=18593407).
+DEC 3, 2018 - I read a [Bloomberg article](https://www.bloomberg.com/opinion/articles/2018-12-03/u-s-yield-curve-just-inverted-that-s-huge) on TBond yield Inversion. It took a while to understand. In the process I found a simple summary posted by [chadash](https://news.ycombinator.com/user?id=chadash) on [news.ycombinator.com](https://news.ycombinator.com/item?id=18593407).
 
 >A quick explanation in layman's terms:
 I have money on hand and I want to put it into something safe. The US government is constitutionally bound to pay its debts, and is generally considered to be very safe (if not the safest investment around).The US government sells bonds with different terms. I can buy 1 year bonds, 3 year bonds, 5 year bonds, 10 year bonds, etc. The treasury sets a fixed interest rate and face value on treasury notes and then whoever pays the most gets the note.
