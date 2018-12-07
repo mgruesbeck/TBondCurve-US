@@ -25,7 +25,6 @@ I have money on hand and I want to put it into something safe. The US government
 >In rare cases, the yield curve will invert. What this means is that investors think that rates of return on government bonds are going to go down in the future. In order to lock in a better rate now, they're willing to pay more for longer term bonds (in this case, 5 year bonds vs. 3 year bonds) in order to "lock-in" the good rates. The assumption is that they won't be able to get the same good rates if they don't act now.
 
 >Note that only the 3 and 5 years have inverted. If people were really panicked, you would probably see a more significant inversion, where for example, the 1 year was higher than the 2 year and the 2 higher than the 3, etc.
-
 >[1] these rates are actual rates of return calculated based on the auction price paid
 
 [chadash](https://news.ycombinator.com/user?id=chadash)
