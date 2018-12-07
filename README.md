@@ -1,7 +1,7 @@
 # US Treasury Bond Yield Curve Inversion
 
 ### Intro
-![Image of inversion](https://github.com/mgruesbeck/TBondCurve-US/blob/master/ScreenShot2018-12-04at9.56.39AM.png)
+![Image of inversion](https://github.com/mgruesbeck/TBondCurve-US/blob/master/images/ScreenShot2018-12-04at9.56.39AM.png)
 
 On December 3, 2018 US T-bond yield curves inverted. This was all very facinating so I wanted a historical understanding of this. Specifically, when comparing set maturities, how often and when has this happened?
 
@@ -36,10 +36,10 @@ Yield curve data is avalible at [treasury.gov](https://www.treasury.gov/resource
 
 ##### Two and five year maturities (1990-2008)
 
-[1990-2018-2yr-5yr.tsv](https://github.com/mgruesbeck/TBondCurve-US/blob/master/DailyTreasuryYieldCurveRates1990-2018-2yr-5yr.tsv)
+[1990-2018-2yr-5yr.tsv](https://github.com/mgruesbeck/TBondCurve-US/blob/master/data/DailyTreasuryYieldCurveRates1990-2018-2yr-5yr.tsv)
 
 ##### All maturities (1990-2008)
 
-[1990-2018-All.tsv](https://github.com/mgruesbeck/TBondCurve-US/blob/master/DailyTreasuryYieldCurveRates1990-2018-All.tsv)
+[1990-2018-All.tsv](https://github.com/mgruesbeck/TBondCurve-US/blob/master/data/DailyTreasuryYieldCurveRates1990-2018-All.tsv)
 
 ### Results
