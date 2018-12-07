@@ -1,11 +1,11 @@
 # US Treasury Bond Yield Curve Inversion
 
-### Intro
+## Intro
 ![Image of inversion](https://github.com/mgruesbeck/TBondCurve-US/blob/master/src/images/ScreenShot2018-12-04at9.56.39AM.png)
 
 On December 3, 2018 US T-bond yield curves inverted. This was all very facinating so I wanted a historical understanding of this. Specifically, when comparing set maturities, how often and when has this happened?
 
-### Background
+## Background
 
 DEC 3, 2018 - I read a [Bloomberg article](https://www.bloomberg.com/opinion/articles/2018-12-03/u-s-yield-curve-just-inverted-that-s-huge) on TBond yield Inversion. It took a while to understand. In the process I found a simple summary posted by [chadash](https://news.ycombinator.com/user?id=chadash) on [news.ycombinator.com](https://news.ycombinator.com/item?id=18593407).
 
@@ -25,19 +25,19 @@ DEC 3, 2018 - I read a [Bloomberg article](https://www.bloomberg.com/opinion/art
 >[1] these rates are actual rates of return calculated based on the auction price paid
 >-[chadash](https://news.ycombinator.com/user?id=chadash)
 
-### Data
+## Data
 
 T-bond yield data is avalible at [treasury.gov](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yieldAll). This data covers all maturities (1Mo, 2Mo, 3Mo, 6Mo, 1Yr, 2Yr, 3Yr, 5Yr, 7Yr, 10Yr, 20Yr, 30Yr) for years 1990 through 2018.
 
-##### Two and five year maturities (1990-2008)
+#### Two and five year maturities (1990-2008)
 
 [1990-2018-2yr-5yr.tsv](https://github.com/mgruesbeck/TBondCurve-US/blob/master/src/data/DailyYield1990-2018-2yr-5yr.tsv)
 
-##### All maturities (1990-2008)
+#### All maturities (1990-2008)
 
 [1990-2018-All.tsv](https://github.com/mgruesbeck/TBondCurve-US/blob/master/src/data/DailyYield1990-2018-All.tsv)
 
-### Results
+## Results
 Wanted quick answers so did some cheap math. Discovered that between 1990-2018 (28yrs or ~10220days) there are `~644` days where 2yr yeild > 5yr yeild. Inversions account for `~6.30%` of all `10220 days`.
 
 ```
@@ -45,7 +45,7 @@ percent = (inversion/totalDays) * 100
 6.30% = (644/10220) * 100
 ```
 
-### Follow up / fun ideas
+## Follow up / fun ideas
 - Load all maturities 
 - Practice dataset immutablity
 - Chart data with [plottable](http://plottablejs.org/examples/finance)
