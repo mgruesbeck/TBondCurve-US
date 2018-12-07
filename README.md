@@ -10,13 +10,9 @@ On December 3, 2018 US T-bond yield curves inverted. This was all very facinatin
 On December 3, 2018 I read this [Bloomberg article](https://www.bloomberg.com/opinion/articles/2018-12-03/u-s-yield-curve-just-inverted-that-s-huge) on TBond yield Inversion. It took a while to understand but found this great summary from [chadash](https://news.ycombinator.com/user?id=chadash) on [news.ycombinator.com](https://news.ycombinator.com/item?id=18593407).
 
 >A quick explanation in layman's terms:
-I have money on hand and I want to put it into something safe. The US government is constitutionally bound to pay its debts, and is generally considered to be very safe (if not the safest investment around).
+I have money on hand and I want to put it into something safe. The US government is constitutionally bound to pay its debts, and is generally considered to be very safe (if not the safest investment around).The US government sells bonds with different terms. I can buy 1 year bonds, 3 year bonds, 5 year bonds, 10 year bonds, etc. The treasury sets a fixed interest rate and face value on treasury notes and then whoever pays the most gets the note.
 
->The US government sells bonds with different terms. I can buy 1 year bonds, 3 year bonds, 5 year bonds, 10 year bonds, etc. The treasury sets a fixed interest rate and face value on treasury notes and then whoever pays the most gets the note.
-
->Right now, (annualized) rates [1] are approximately as follows:
-
->1 month - 2.30% 6 month - 2.56% 1 year - 2.72% 3 year - 2.84% 5 year - 2.83% 7 year - 2.90% 10 year - 2.98%
+>Right now, (annualized) rates [1] are approximately as follows: 1 month - 2.30% 6 month - 2.56% 1 year - 2.72% 3 year - 2.84% 5 year - 2.83% 7 year - 2.90% 10 year - 2.98%
 
 >Notice that the 3 year rates are higher than the 5 year rates. Generally speaking, if I'm going to lock up my money for more time, I expect a higher return. However, today, the 3 year notes are getting a higher rate of return than the 5 year notes. Why?
 
